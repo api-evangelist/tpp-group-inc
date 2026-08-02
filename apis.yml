@@ -1,7 +1,12 @@
 aid: tpp-group-inc
 name: TPP GROUP INC.
-description: TPP GROUP INC. is a company surfaced as a portfolio company of 500-global and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: TPP Group is a media intelligence company that creates and scales Arabic
+  content, helping brands make data-driven marketing investments across the Arabic-speaking
+  world. It operates four integrated divisions - Network (Arabic intellectual property
+  development, 40+ owned and operated IPs), Studio (production infrastructure with
+  1,400+ produced episodes), Agency (performance-driven distribution), and Intelligence
+  (psychographic audience-behavior analytics and attention measurement). A 500 Global
+  portfolio company; it publishes no public developer or API surface.
 url: https://raw.githubusercontent.com/api-evangelist/tpp-group-inc/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,17 +14,59 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://tppgroup.co/apple-touch-icon.png
 tags:
 - Company
+- Media
+- Media Intelligence
+- Arabic Content
+- Advertising
+- Audience Analytics
+- Podcasts
+- Content Production
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 common:
 - type: Website
-  url: https://tpp.network
+  url: https://tppgroup.co
+- type: Blog
+  url: https://tppgroup.co/news
+- type: Support
+  url: https://tppgroup.co/contact
+- type: PrivacyPolicy
+  url: https://tppgroup.co/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/tpp-network/posts/
+- type: Instagram
+  url: https://www.instagram.com/tpp.network/
+- type: Facebook
+  url: https://www.facebook.com/TPPnetwork.FB
+- type: WellKnown
+  url: well-known/tpp-group-inc-well-known.yml
+- type: LLMsTxt
+  url: llms/tpp-group-inc-llms.txt
+- type: DomainSecurity
+  url: security/tpp-group-inc-domain-security.yml

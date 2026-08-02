@@ -1,0 +1,21 @@
+# TPP Group
+
+> TPP Group is a media intelligence company that creates and scales Arabic content, helping brands make data-driven marketing investments. It operates four integrated divisions - Network (Arabic IP development, 40+ owned and operated properties), Studio (production, 1,400+ episodes), Agency (performance-driven distribution), and Intelligence (psychographic audience-behavior analytics and attention measurement). A 500 Global portfolio company. No public developer or API surface is published (checked 2026-07-21).
+
+## Company
+
+- [Website](https://tppgroup.co): Company homepage (tpp.network redirects here)
+- [About](https://tppgroup.co/about): Company overview
+- [Network](https://tppgroup.co/network): Arabic intellectual-property division
+- [Studio](https://tppgroup.co/studio): Content production division
+- [Agency](https://tppgroup.co/agency): Distribution and performance marketing division
+- [Intelligence](https://tppgroup.co/intelligence): Audience analytics and attention measurement division
+- [News](https://tppgroup.co/news): News and insights
+- [Newsletter](https://tppgroup.co/newsletter): Newsletter signup
+- [Partners](https://tppgroup.co/partners): Partner brands
+- [Contact](https://tppgroup.co/contact): Contact form (info@tppgroup.co)
+- [Privacy Policy](https://tppgroup.co/privacy-policy): Privacy policy (dated 2026-05-18)
+
+## Catalog
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/tpp-group-inc/refs/heads/main/apis.yml): API Evangelist network profile for TPP Group
