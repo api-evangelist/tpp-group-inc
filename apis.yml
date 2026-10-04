@@ -1,5 +1,5 @@
 aid: tpp-group-inc
-name: TPP GROUP INC.
+name: TPP GROUP
 description: TPP Group is a media intelligence company that creates and scales Arabic
   content, helping brands make data-driven marketing investments across the Arabic-speaking
   world. It operates four integrated divisions - Network (Arabic intellectual property
@@ -81,3 +81,4 @@ common:
   url: llms/tpp-group-inc-llms.txt
 - type: DomainSecurity
   url: security/tpp-group-inc-domain-security.yml
+x-legal-name: TPP GROUP INC.
